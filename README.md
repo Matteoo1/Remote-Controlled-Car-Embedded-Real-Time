@@ -42,11 +42,11 @@ This project implements a remote-controlled car using an infrared (IR) remote co
 - **Emergency Stop**: Press the emergency stop button on the IR remote to immediately halt all car movement in case of emergencies or unexpected obstacles.
 
 ## UML CLASS diagram
-<img width="500" height="500" alt="image" src="https://github.com/mohamadd10/Remote-Controlled-Car-Embedded-Real-Time/assets/119814738/4ac06b5b-1b8a-4ff3-97ed-a3404bda366b">
+<img width="400" height="400" alt="image" src="https://github.com/mohamadd10/Remote-Controlled-Car-Embedded-Real-Time/assets/119814738/4ac06b5b-1b8a-4ff3-97ed-a3404bda366b">
 
 ## UML Sequence diagram
 
-<img width="300" height="450" alt="image" src="https://github.com/mohamadd10/Remote-Controlled-Car-Embedded-Real-Time/assets/119814738/a8d3f31f-c137-4170-8d42-79309019e4e6">
+<img width="400" height="450" alt="image" src="https://github.com/mohamadd10/Remote-Controlled-Car-Embedded-Real-Time/assets/119814738/a8d3f31f-c137-4170-8d42-79309019e4e6">
 
 
 ## Image of the car
