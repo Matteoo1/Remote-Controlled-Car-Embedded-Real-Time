@@ -1,5 +1,10 @@
 # Remote-Controlled-Car-Embedded-Real-Time
 
+## Image of the car
+
+<img width="500" height="500" alt="image" src="https://github.com/mohamadd10/Remote-Controlled-Car-Embedded-Real-Time/assets/119814738/526e20f8-8bb9-4a1a-aed8-e1db8df51761">
+
+
 ## Overview
 
 This project implements a remote-controlled car using an infrared (IR) remote control and ultrasonic sensor for obstacle detection. The car can be controlled wirelessly using an IR remote, with features such as forward, backward, left turn, right turn, speed adjustment, and emergency stop. The ultrasonic sensor ensures safe navigation by detecting obstacles and automatically stopping the car when the distance is too close.
@@ -47,9 +52,4 @@ This project implements a remote-controlled car using an infrared (IR) remote co
 ## UML Sequence diagram
 
 <img width="400" height="450" alt="image" src="https://github.com/mohamadd10/Remote-Controlled-Car-Embedded-Real-Time/assets/119814738/a8d3f31f-c137-4170-8d42-79309019e4e6">
-
-
-## Image of the car
-
-<img width="500" height="500" alt="image" src="https://github.com/mohamadd10/Remote-Controlled-Car-Embedded-Real-Time/assets/119814738/526e20f8-8bb9-4a1a-aed8-e1db8df51761">
 
